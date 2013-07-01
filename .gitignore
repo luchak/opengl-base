@@ -1,0 +1,4 @@
+build.mk
+*.o
+.deps/
+bin/
